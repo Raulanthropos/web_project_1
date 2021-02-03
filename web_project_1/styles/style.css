@@ -334,11 +334,10 @@
 
 .footer__column-links {
   padding: 0;
-  margin: 0;
   list-style: none;
+  margin: 20px 0 16px;
   display: flex;
   flex-direction: column;
-  margin: 20px auto 16px;
 }
 
 .footer__column-link {
