@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ioannis psichias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ioannis psichias" height="30" width="40" /></a>
-<a href="https://fb.com/raul aleksandros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raul aleksandros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ioannis Psichias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ioannis psichias" height="30" width="40" /></a>
+<a href="https://fb.com/Raul Aleksandros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raul aleksandros" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
