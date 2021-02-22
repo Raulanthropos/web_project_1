@@ -5,3 +5,5 @@
 ## This is a project where we make use of BEM methodology and file structuring, along with HTML and CSS fundanmentals that we went through, including some animations.
 
 ### I'm currently working on fixing mistakes in the file structure, positioning of elements and improving upon best practices in regards to assigning structural components to parent blocks rather than to the ones that might be reused.
+
+[Sprint 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-eng-brief.pdf)
