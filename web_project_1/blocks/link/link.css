@@ -1,21 +1,3 @@
-@keyframes link-transparency {
-  0% {
-    opacity: 1;
-  }
-  25% {
-    opacity: 0.87;
-  }
-  50% {
-    opacity: 0.75;
-  }
-  75% {
-    opacity: 0.63;
-  }
-  100% {
-    opacity: 0.5;
-  }
-}
-
 .link {
   background-color: transparent;
   text-decoration: none;
@@ -23,7 +5,6 @@
 
 .link:hover {
   cursor: pointer;
-  animation-name: link-transparency;
-  animation-duration: 0.4s;
-  animation: link-transparency 0.4s linear 0s 1 normal forwards;
+  opacity: 0.5;
+  transition: 0.4s linear;
 }

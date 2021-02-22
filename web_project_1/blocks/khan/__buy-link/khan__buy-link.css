@@ -3,7 +3,7 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
-  position: relative;
-  left: 48px;
-  top: 0;
+  margin-left: 48px;
+  margin-top: 0;
+  align-self: baseline;
 }
