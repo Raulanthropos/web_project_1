@@ -1,0 +1,7 @@
+@import url(./__container/video__container.css);
+@import url(./__iframe/video__iframe.css);
+
+.video {
+  background: linear-gradient(rgba(255,255,255,1) 87%, rgba(241, 241, 241,1) 13%);
+  margin: 0;
+}
